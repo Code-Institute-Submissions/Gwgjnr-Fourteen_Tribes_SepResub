@@ -9,8 +9,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    color: #373737;
-    background-color: #81c784
+    color: white;
+    background-color: #4caf50;
 }
 
 a {
@@ -32,14 +32,14 @@ h1 {
     font-size: 90%;
     letter-spacing: 4px;
     line-height: 50px;
-    padding-top: 15px;
+    padding-top: 20px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    background-color: #81c784
+    background-color: #4caf50;
 }
 
 #menu a:hover {
@@ -58,4 +58,31 @@ h1 {
     height: 600px;
     width: 100%;
     background: url('../images/homepage_image.jpg') no-repeat center center;
+}
+
+#homepage_about {
+    height: 60px;
+}
+
+#homepage_question {
+    font-size: 180%;
+    text-align-last: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.homepage_text h3 {
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+
+hr {
+    border-top: 1px solid white;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.homepage_text p {
+    padding-bottom: 30px;
 }
