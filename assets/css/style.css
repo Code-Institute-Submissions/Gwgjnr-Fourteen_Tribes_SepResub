@@ -9,16 +9,17 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    color: #3a3a3a
-}
-
-h1 {
-    font-family: 'Monoton', sans-serif;
+    color: #373737;
+    background-color: #81c784
 }
 
 a {
     text-decoration: none;
     color: inherit;
+}
+
+h1 {
+    font-family: 'Monoton', sans-serif;
 }
 
 #logo {
@@ -34,13 +35,27 @@ a {
     padding-top: 15px;
 }
 
-
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    
+    background-color: #81c784
 }
 
 #menu a:hover {
     border-bottom: solid;
+}
+
+#homepage-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#homepage-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/homepage_image.jpg') no-repeat center center;
+}
