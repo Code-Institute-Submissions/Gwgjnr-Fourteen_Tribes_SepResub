@@ -76,6 +76,8 @@ h1 {
 .homepage_text {
     display: inline-block;
     width: 60%;
+    vertical-align: top;
+    padding-top: 60px;
 }
 
 hr {
