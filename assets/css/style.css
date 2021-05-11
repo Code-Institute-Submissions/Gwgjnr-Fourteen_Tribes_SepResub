@@ -30,7 +30,8 @@ h1 {
 
 #menu {
     font-size: 90%;
-    letter-spacing: 4px;
+    font-weight: 600;
+    letter-spacing: 5px;
     line-height: 50px;
     padding-top: 20px;
 }
@@ -78,7 +79,7 @@ h1 {
 
 hr {
     border-top: 1px solid white;
-    width: 10%;
+    width: 20%;
     margin: 5px 0 10px;
 }
 
@@ -87,7 +88,7 @@ hr {
 }
 
 footer {
-    height: 150px;
+    height: 100px;
     background-color: white;
 }
 
@@ -102,7 +103,7 @@ footer {
 
 .social-media i{
     font-size: 130%;
-    margin: 1%;
-    padding: 3%;
+    margin: 0;
+    padding: 2%;
     color: #3a3a3a;
 }
