@@ -73,14 +73,13 @@ h1 {
 }
 
 .homepage_text h3 {
-    padding-bottom: 5px;
     padding-left: 30px;
 }
 
 hr {
     border-top: 1px solid white;
-    width: 100%;
-    margin: 5px 0;
+    width: 10%;
+    margin: 5px 0 10px;
 }
 
 .homepage_text p {
