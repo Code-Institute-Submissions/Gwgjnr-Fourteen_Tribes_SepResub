@@ -85,3 +85,24 @@ hr {
 .homepage_text p {
     padding-bottom: 30px;
 }
+
+footer {
+    height: 150px;
+    background-color: white;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+    background-color: white;
+}
+
+.social-media i{
+    font-size: 130%;
+    margin: 1%;
+    padding: 3%;
+    color: #3a3a3a;
+}
