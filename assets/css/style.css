@@ -93,4 +93,15 @@ footer {
     width: 18.75rem;
     border-radius: 50%;
     overflow: hidden;
-    }
+    margin: 0 2rem 2rem 4rem;
+}
+
+.article_area {
+    display: flex;
+    align-items: center;
+}
+
+.second_page_styling {
+    color: #343a40;
+    background-color: white;
+}
