@@ -24,11 +24,11 @@ h1 {
 
 h2 {
     color: white;
-    margin: 0 auto;
+    margin: 1rem auto;
 }
 
 #homepage-outer {
-    height: 600px;
+    height: 37.5rem;
     width: 100%;
     overflow: hidden;
 
@@ -36,7 +36,7 @@ h2 {
 }
 
 #homepage-image {
-    height: 600px;
+    height: 37.5rem;
     width: 100%;
     background: url('../images/homepage_image.jpg') no-repeat center center;
 }
@@ -57,7 +57,7 @@ h2 {
     display: inline-block;
     width: 60%;
     vertical-align: top;
-    padding-top: 60px;
+    padding-top: 3.75rem;
 }
 
 hr {
