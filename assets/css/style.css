@@ -24,7 +24,8 @@ h1 {
 
 h2 {
     color: white;
-    margin: 1rem auto;
+    margin-left: 40%;
+    padding: 1rem 0;
 }
 
 #homepage-outer {
