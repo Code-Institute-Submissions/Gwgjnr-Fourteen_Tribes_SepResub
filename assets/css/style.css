@@ -22,29 +22,8 @@ h1 {
     font-family: 'Monoton', sans-serif;
 }
 
-#logo {
-    float: left;
-    font-size: 180%;
-    margin-left: 2rem;
-}
-
-#menu {
-    font-size: 90%;
-    font-weight: 600;
-    letter-spacing: .33rem;
-    line-height: 3rem;
-    padding-top: 1.3rem;
-}
-
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 2rem;
-    background-color: #4caf50;
-}
-
-#menu a:hover {
-    border-bottom: solid;
+h2 {
+    color: white;
 }
 
 #homepage-outer {
@@ -82,41 +61,8 @@ h1 {
 
 hr {
     border-top: 1px solid white;
-    width: 20%;
+    width: 100%;
     margin: .33rem 0 .7rem;
-}
-
-#food_drink_image {
-    height: 18.75rem;
-    width: 18.75rem;
-    background: url('../images/stock_food_image.jpg') no-repeat center center;
-    display: inline-block;
-    margin-right: 10%;
-    margin-left: 5%;
-    margin-bottom: 1rem;
-    border-radius: 50%;
-}
-
-#place_stay_image {
-    height: 18.75rem;
-    width: 18.75rem;
-    background: url('../images/hotel_room.jpg') no-repeat center center;
-    display: inline-block;
-    margin-right: 10%;
-    margin-left: 5%;
-    margin-bottom: 1rem;
-    border-radius: 50%;
-}
-
-#family_fun_image {
-    height: 18.75rem;
-    width: 18.75rem;
-    background: url('../images/family_fun.jpg') no-repeat center center;
-    display: inline-block;
-    margin-right: 10%;
-    border-radius: 50%;
-    margin-left: 5%;
-    margin-bottom: 1rem;
 }
 
 footer {
