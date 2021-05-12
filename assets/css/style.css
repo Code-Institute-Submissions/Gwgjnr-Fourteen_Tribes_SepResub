@@ -88,3 +88,9 @@ footer {
     color: #3a3a3a;
 }
 
+.circle_images {
+    height: 18.75rem;
+    width: 18.75rem;
+    border-radius: 50%;
+    overflow: hidden;
+    }
