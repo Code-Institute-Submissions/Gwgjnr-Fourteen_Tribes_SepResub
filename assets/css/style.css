@@ -89,7 +89,6 @@ hr {
 #food_drink_image {
     height: 18.75rem;
     width: 18.75rem;
-    max-width: 30%;
     background: url('../images/stock_food_image.jpg') no-repeat center center;
     display: inline-block;
     margin-right: 10%;
@@ -101,7 +100,6 @@ hr {
 #place_stay_image {
     height: 18.75rem;
     width: 18.75rem;
-    max-width: 30%;
     background: url('../images/hotel_room.jpg') no-repeat center center;
     display: inline-block;
     margin-right: 10%;
@@ -113,7 +111,6 @@ hr {
 #family_fun_image {
     height: 18.75rem;
     width: 18.75rem;
-    max-width: 30%;
     background: url('../images/family_fun.jpg') no-repeat center center;
     display: inline-block;
     margin-right: 10%;
