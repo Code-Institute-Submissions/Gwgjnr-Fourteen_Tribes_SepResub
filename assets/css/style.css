@@ -99,7 +99,8 @@ footer {
     height: 18.75rem;
     width: 18.75rem;
     border-radius: 50%;
-    overflow: hidden;
+    /*I overflow: hidden; */
+    object-fit: cover;
     margin: 0 2rem 2rem 4rem;
 }
 
