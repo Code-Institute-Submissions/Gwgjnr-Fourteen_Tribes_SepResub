@@ -69,7 +69,7 @@ h3 {
 
 hr {
     border-top: 1px solid #343a40;
-    width: 100%;
+    width: 90%;
     margin: .33rem 0 .7rem;
 }
 
@@ -108,7 +108,19 @@ footer {
     align-items: center;
 }
 
+.article_area p {
+    width: 90%;
+}
+
 .second_page_styling {
     color: #343a40;
     background-color: white;
 }
+
+@media screen and (min-width: 975px) {
+    .card-img-top {
+        height: 21rem;
+        overflow: hidden;
+    }
+}
+
