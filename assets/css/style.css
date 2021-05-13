@@ -9,8 +9,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    color: black;
-    background-color: #343a40;
+    color: #343a40;
+    background-color: /* #343a40 */ #ffffff;
 }
 
 a {
@@ -23,8 +23,8 @@ h1 {
 }
 
 h2 {
-    color: white;
-    margin-left: 40%;
+    color:#343a40;
+    margin-left: 28%;
     padding: 1rem 0;
 }
 
@@ -62,7 +62,7 @@ h2 {
 }
 
 hr {
-    border-top: 1px solid white;
+    border-top: 1px solid #343a40;
     width: 100%;
     margin: .33rem 0 .7rem;
 }
