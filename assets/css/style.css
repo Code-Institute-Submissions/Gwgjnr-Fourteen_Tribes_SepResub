@@ -140,16 +140,14 @@ footer {
     }
 }
 
-@media screen and (min-width: 975px) {
+@media screen and (min-width: 1025px) {
     .card-img-top {
         height: 21rem;
+        object-fit: cover;
         overflow: hidden;
     }
-}
-
-@media screen and (min-width: 1024px) {
     .social-media li {
         margin: 0 5rem;
         font-size: 1rem;
-    }
+    }  
 }
