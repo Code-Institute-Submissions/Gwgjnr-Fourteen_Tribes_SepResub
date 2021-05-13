@@ -74,8 +74,8 @@ hr {
 }
 
 footer {
-    height: 6.25rem;
-    background-color: white;
+    height: 4.5rem;
+    background-color: #343a40;
 }
 
 .social-media {
@@ -84,14 +84,15 @@ footer {
 
 .social-media li {
     display: inline;
-    background-color: white;
+    background-color: #343a40;
 }
 
 .social-media i{
     font-size: 130%;
     margin: 0;
-    padding: 2%;
-    color: #3a3a3a;
+    padding: 1.5rem 5rem;
+    color: #ffffff;
+    vertical-align: center;
 }
 
 .circle_images {
