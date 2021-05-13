@@ -24,6 +24,12 @@ h1 {
 
 h2 {
     color:#343a40;
+    margin-left: 40%;
+    padding: 1rem 0;
+}
+
+h3 {
+    color:#343a40;
     margin-left: 28%;
     padding: 1rem 0;
 }
