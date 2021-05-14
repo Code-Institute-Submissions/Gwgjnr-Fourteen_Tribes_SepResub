@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat&family=Roboto&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     color: #343a40;
     background-color: /* #343a40 */ #ffffff;
@@ -26,12 +26,22 @@ h2 {
     color:#343a40;
     margin-left: 40%;
     padding: 1rem 0;
+    font-family: 'Roboto';
+    font-weight: 500;
 }
 
 h3 {
     color:#343a40;
     margin-left: 28%;
     padding: 1rem 0;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+h4, h5 {
+    color:#343a40;
+    font-family: 'Roboto';
+    font-weight: 500;
 }
 
 #homepage-outer {
@@ -101,6 +111,7 @@ footer {
     border-radius: 50%;
     object-fit: cover;
     margin: 0 2rem 2rem 4rem;
+    opacity: 0.9;
 }
 
 .article_area {
