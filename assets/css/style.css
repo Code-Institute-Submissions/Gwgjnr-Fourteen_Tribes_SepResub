@@ -27,7 +27,6 @@ h2 {
     margin-left: 40%;
     padding: 1rem 0;
     font-family: 'Roboto';
-    font-weight: 500;
 }
 
 h3 {
@@ -44,18 +43,12 @@ h4, h5 {
     font-weight: 500;
 }
 
-#homepage-outer {
-    height: 37.5rem;
-    width: 100%;
-    overflow: hidden;
-
-    position: relative;
-}
-
 #homepage-image {
     height: 37.5rem;
     width: 100%;
-    background: url('../images/homepage_image.jpg') no-repeat center center;
+    background: url no-repeat center center;
+    object-fit: none;
+    ;
 }
 
 #homepage_about {
