@@ -10,12 +10,11 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     color: #343a40;
-    background-color: /* #343a40 */ #ffffff;
+    background-color: #ffffff;
 }
 
 a {
     text-decoration: none;
-    color: inherit;
 }
 
 h1 {
