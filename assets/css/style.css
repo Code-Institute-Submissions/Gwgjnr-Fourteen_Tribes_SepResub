@@ -64,7 +64,6 @@ h4, h5 {
 }
 
 .card-img-top {
-    height: 21rem;
     object-fit: cover;
     overflow: hidden;
     border-radius: 25%;
@@ -123,5 +122,34 @@ footer {
     background-color: white;
 }
 
+.animate-left {
+    position: relative;
+    animation: animateleft 1s
+}
+@keyframes animateleft {
+    from {
+        left: -300px;
+        opacity: 1
+    }
+    to {
+        left: 0;
+        opacity: 1
+    }
+}
 
+@media screen and (min-width: 860px) {
+    .main-body-text {
+        font-size: 1.5rem;
+    }
+}
+@media screen and (min-width: 1025px) {
+    .card-img-top {
+        height: 21rem;
+    }
+
+    h1 {
+        font-size: 2.2rem;
+    }
+
+}
 
