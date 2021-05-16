@@ -125,13 +125,19 @@ The deployed link can be found [here.](https://gwgjnr.github.io/Fourteen_Tribes/
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/) and the design of the footer was based off the design shown the Love Running Project but eventually changed to include a row and columns to allow the icons to respond better to smaller screen sizes.
 
-- The text throughout the site was written by the developer.
+- The text throughout the site was written by the developer. The information was collected from Wikipedia and websites related to each event.
 
 ### Media
 
 - All images on the homepage and festival page were taken from https://www.shutterstock.com/home
 
-- Images for the food page were taken from the original restaurant's website galleries.
+- Images for the food page were sourced from each original restaurant's website galleries. 
+   - Aniar source: https://en.wikipedia.org/wiki/Aniar
+   - An Pucan source: https://anpucan.ie/gallery-2/
+   - John Keoghs source: https://www.johnkeoghs.ie/john-keoghs-gastropub-gallery/
 
-- Images for the hotels were taken from the original hotel's website galleries.
+- Images for each of the hotels were sourced from the original hotel's website.
+   - The House hotel: https://www.thehousehotel.ie/home/hotel-gallery/
+   - The Galway Bay hotel: https://www.galwaybayhotel.net/gallery
+   - The G Hotel: https://www.theghotel.ie/hotel-photos/
 
