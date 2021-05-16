@@ -2,7 +2,7 @@
 
 The 14 TRIBES Website was designed to promote Galway City as a suitable location for holiday makers. This website is intended to target groups and couples looking to arrange a short break. This is achieved by clearly and intuitively providing lists of restaurants, hotels and festivals that may be of interest to the user. 
 
-    <a>View live project here.</a>
+    **ADD LINK HERE ONCE DEPLOYED**
 
 ## Features
 
@@ -76,19 +76,20 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 ## Testing
 
-- The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-Please see [here](assets/images/htmlcheck.PNG) for HTML Validator.
+- Please see [here](assets/images/htmlcheck.PNG) for HTML Validator.
 
-Please see [here](assets/images/csscheck.PNG) for CSS Validator.
+- Please see [here](assets/images/csscheck.PNG) for CSS Validator.
 
 
 ## Deployment
 
 You can follow the steps below to deploy the project to GitHub.
 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  1. In the GitHub repository, navigate to the Settings tab 
+  2. From the source section drop-down menu, select the Master Branch
+  3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The deployed link can be found here - #
+
