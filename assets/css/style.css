@@ -91,9 +91,12 @@ footer {
 }
 
 .circle_images {
-    border-radius: 50%;
     opacity: 0.9;
+    width: 90%;
+    height: 90%;
+    border-radius: 25%;
 }
+
 
 .article_area {
     display: flex;
