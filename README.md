@@ -18,19 +18,25 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 **Homepage Image**
 
+![Nav Bar](assets/images/ms1_main_body.PNG)
+
 - This image was selected to give the user a view of a famous part of Galway called The Long Walk with the aim of furthering enticing the customer with the scenery.
 
 **Homepage Main Body**
 
-- This section was designed using the cards class from Bootstrap. This allowed me to keep the page layout responsive across all screen sizes. I included an image in each card to further promote Galway.
+![Nav Bar](assets/images/ms1_homepagecentre.PNG)
 
-- The text for each section is aiming to include as much information as possible to describe the range of options, currently including restaurants, festivals and hotels available in Galway and further entice the user to research further.
+- This section was designed using the cards class from Bootstrap. This allowed me to keep the page layout responsive while intuitive across all screen sizes. I included an image in each card to further promote Galway.
 
-- I included a find out more button to allow the user to easily navigate from the Homepage Main Body to the page which attracted their attention.
+- The text for each section is aiming to include as much information as possible to describe the range of options, currently including restaurants, festivals and hotels available in Galway and further encourage the user to research further.
+
+- I included a find out more button with an inviting green colour to allow the user to easily navigate from the Homepage Main Body to the particular page which attracted their attention.
 
 - From using the card class in Bootstrap, I can easily add further sections to continue to grow the types of attractions available in galway eg. Family activites.
 
 **Footer**
+
+![Nav Bar](assets/images/ms1_footer.PNG)
 
 - The footer for this website is designed to match the color scheme of the nav bar to intuitatively inform the customer that they have reached the bottom of the page.
 
