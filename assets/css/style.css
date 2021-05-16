@@ -82,20 +82,12 @@ footer {
 }
 
 .social-media {
-    text-align: center;
-}
-
-.social-media li {
-    display: inline;
-    background-color: #343a40;
-}
-
-.social-media i{
     font-size: 130%;
-    margin: 0;
-    padding: 1.5rem 0;
+    padding: 1rem 0;
+}
+
+.social-media a {
     color: #ffffff;
-    vertical-align: center;
 }
 
 .circle_images {
@@ -115,41 +107,6 @@ footer {
 .second_page_styling {
     color: #343a40;
     background-color: white;
-}
-
-@media screen and (min-width: 450px) {
-    .social-media li {
-        display: inline;
-        margin: 0 .7rem;
-    }
-}
-
-@media screen and (min-width: 550px) {
-    .social-media li {
-        display: inline;
-        margin: 0 2rem;
-    }
-
-}
-@media screen and (min-width: 860px) {
-    .social-media li {
-        margin: 0 3rem;
-    }
-    .main-body-text {
-        font-size: 1.5rem;
-    }
-}
-
-@media screen and (min-width: 1025px) {
-    .card-img-top {
-        height: 21rem;
-        object-fit: cover;
-        overflow: hidden;
-    }
-    .social-media li {
-        margin: 0 5rem;
-        font-size: 1rem;
-    }  
 }
 
 @media only screen and (min-width: 1140px) and (max-width: 1500px) {
