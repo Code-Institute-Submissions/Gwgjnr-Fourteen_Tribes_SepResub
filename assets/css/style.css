@@ -112,15 +112,5 @@ footer {
     background-color: white;
 }
 
-@media only screen and (min-width: 1140px) and (max-width: 1500px) {
-    .article_area h4,p,hr {
-        margin-left: 10%;
-    }
-}
 
-@media only screen and (min-width: 970px) and (max-width: 1140px) {
-    .article_area h4,p,hr {
-        margin-left: 20%;
-    }
-}
 
