@@ -19,27 +19,28 @@ a {
 
 h1 {
     font-family: 'Monoton', sans-serif;
+    font-size: 2rem;
 }
 
 h2 {
     color:#343a40;
-    margin-left: 40%;
     padding: 1rem 0;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 }
 
 h3 {
     color:#343a40;
     margin-left: 28%;
     padding: 1rem 0;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
 }
 
 h4, h5 {
     color:#343a40;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
+    padding: 1rem 0;
 }
 
 #homepage-image {
