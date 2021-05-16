@@ -82,7 +82,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - Please see [here](assets/images/csscheck.PNG) for CSS Validator.
 
+Throughout the creation of this site, I found that the most issues arised when scaling the site to smaller screen sizes. I encountered issues like this [example](assets/images/ms1_issue1.PNG). After speaking with a peer, I decided to make use of bootstrap's columns system to ensure the imagary and text did not cross over.
 
+Even after making use of bootstrap to eliminate most of these issues, I found that the text still crossed over the image on the secondary pages, please see [example](assets/images/ms1_issue1.PNG) here.
 ## Deployment
 
 You can follow the steps below to deploy the project to GitHub.
