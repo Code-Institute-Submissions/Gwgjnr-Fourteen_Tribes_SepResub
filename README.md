@@ -94,5 +94,5 @@ You can follow the steps below to deploy the project to GitHub.
   2. From the source section drop-down menu, select the Master Branch
   3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The deployed link can be found here - https://gwgjnr.github.io/Fourteen_Tribes/hotels.html 
+The deployed link can be found [here.](https://gwgjnr.github.io/Fourteen_Tribes/hotels.html)
 
