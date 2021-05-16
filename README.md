@@ -10,39 +10,39 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 **Navigation Bar**
 
->  The fully responsive nav bar was created using bootstrap. This is identically displayed across all four pages and includes the website logo on the lefthand side with the page menu floating left to allow navigation of the site. 
+- The fully responsive nav bar was created using bootstrap. This is identically displayed across all four pages and includes the website logo on the lefthand side with the page menu floating left to allow navigation of the site. 
 
-> Having initially created a nav bar without bootstrap, I found that once you reached the smaller screen sizes it was not visually pleasing and decided to use bootstrap as this allows for a collapsable menu which is hidden until clicked on small screens.
+- Having initially created a nav bar without bootstrap, I found that once you reached the smaller screen sizes it was not visually pleasing and decided to use bootstrap as this allows for a collapsable menu which is hidden until clicked on small screens.
 
 **Homepage Image**
 
-> This image was selected to give the user a view of a famous part of Galway called The Long Walk with the aim of furthering enticing the customer with the scenery.
+- This image was selected to give the user a view of a famous part of Galway called The Long Walk with the aim of furthering enticing the customer with the scenery.
 
 **Homepage Main Body**
 
-> This section was designed using the cards class from Bootstrap. This allowed me to keep the page layout responsive across all screen sizes. I included an image in each card to further promote Galway.
+- This section was designed using the cards class from Bootstrap. This allowed me to keep the page layout responsive across all screen sizes. I included an image in each card to further promote Galway.
 
-> The text for each section is aiming to include as much information as possible to describe the range of options, currently including restaurants, festivals and hotels available in Galway and further entice the user to research further.
+- The text for each section is aiming to include as much information as possible to describe the range of options, currently including restaurants, festivals and hotels available in Galway and further entice the user to research further.
 
-> I included a find out more button to allow the user to easily navigate from the Homepage Main Body to the page which attracted their attention.
+- I included a find out more button to allow the user to easily navigate from the Homepage Main Body to the page which attracted their attention.
 
-> From using the card class in Bootstrap, I can easily add further sections to continue to grow the types of attractions available in galway eg. Family activites.
+- From using the card class in Bootstrap, I can easily add further sections to continue to grow the types of attractions available in galway eg. Family activites.
 
 **Footer**
 
-> The footer for this website is designed to match the color scheme of the nav bar to intuitatively inform the customer that they have reached the bottom of the page.
+- The footer for this website is designed to match the color scheme of the nav bar to intuitatively inform the customer that they have reached the bottom of the page.
 
-> The footer includes links to all major social media as this allows the customer to navigate easily to the relevant social media page which encourages them to share and generate further exposure.
+- The footer includes links to all major social media as this allows the customer to navigate easily to the relevant social media page which encourages them to share and generate further exposure.
 
 **Secondary Pages**
 
-> These pages were built to provide further information on each attraction currently advertised on the site, should the user be interested. These pages can be accessed from both the nav bar and buttons in the main body to allow easy navigation of the site. 
+- These pages were built to provide further information on each attraction currently advertised on the site, should the user be interested. These pages can be accessed from both the nav bar and buttons in the main body to allow easy navigation of the site. 
 
-> Restaurants, festivals and hotels each have their own page which provides a range of options, brief summary and displays a related image. The image and paragraphs are positioned using Bootstrap which allowed me to ensure they are responsive across all screen sizes.
+- Restaurants, festivals and hotels each have their own page which provides a range of options, brief summary and displays a related image. The image and paragraphs are positioned using Bootstrap which allowed me to ensure they are responsive across all screen sizes.
 
 ### Future Features
 
-> I believe the page would be a great opportunity for local businesses to partake in targeted advertising for special offers they are making. This could be implemented by adding advertising bars to each page which would create a source of revenue.
+- I believe the page would be a great opportunity for local businesses in the tourism industry to partake in targeted advertising for special offers they are making. This could be implemented by adding advertising bars to each page which would create a source of revenue.
 
 ## Technologies used
 
@@ -76,10 +76,19 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 ## Testing
 
-> The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+- The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 Please see [here](assets/images/htmlcheck.PNG) for HTML Validator.
 
 Please see [here](assets/images/csscheck.PNG) for CSS Validator.
 
 
+## Deployment
+
+You can follow the steps below to deploy the project to GitHub.
+
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
