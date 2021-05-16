@@ -17,49 +17,49 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 - Having initially created a nav bar without bootstrap, I found that once it reached the smaller screen sizes it was not visually pleasing and decided to use bootstrap as this allows for a collapsable menu which is hidden until clicked on small screens.
 
-- I included the active class on each page when you visit it so it highlights the page you are currently viewing.
+- I included the active class on each page when you visit it so it highlights the page you are currently viewing in the nav bar.
 
 **Homepage Image**
 
 
-![Nav Bar](assets/images/ms1_main_body.PNG)
+![main_body](assets/images/ms1_main_body.PNG)
 
 - This image was selected to give the user a view of a famous part of Galway called The Long Walk with the aim of furthering enticing the customer with the scenery.
 
 **Homepage Main Body**
 
 
-![Nav Bar](assets/images/ms1_homepagecentre.PNG)
+![home page centre image](assets/images/ms1_homepagecentre.PNG)
 
-- This section was designed using the cards class from Bootstrap. This allowed me to keep the page layout responsive while intuitive across all screen sizes. I included an image in each card to further promote Galway.
+- This section was designed using the cards class from Bootstrap. This allowed me to keep the page layout responsive across all screen sizes. I included an image in each card to further promote Galway.
 
-- The text for each section is aiming to include as much information as possible to describe the range of options, currently including restaurants, festivals and hotels available in Galway and further encourage the user to research further.
+- The text for each section is aiming to include as much information as possible to describe the range of options, currently including restaurants, festivals and hotels available in Galway and further encourage the user to research more.
 
-- I included a find out more button with an inviting green colour to allow the user to easily navigate from the Homepage Main Body to the particular page which attracted their attention.
+- I included a find out more button with an inviting green colour as a call to action to allow the user to easily navigate from the Homepage Main Body to the particular page which attracted their attention the most.
 
 - From using the card class in Bootstrap, I can easily add further sections to continue to grow the types of attractions available in galway eg. Family activites.
 
 **Footer**
 
 
-![Nav Bar](assets/images/ms1_footer.PNG)
+![Footer](assets/images/ms1_footer.PNG)
 
-- The footer for this website is designed to match the color scheme of the nav bar to intuitatively inform the customer that they have reached the bottom of the page.
+- The footer for this website is designed to match the color scheme of the nav bar with the same dark grey to inform the customer that they have reached the bottom of the page.
 
 - The footer includes links to all major social media as this allows the customer to navigate easily to the relevant social media page which encourages them to share and generate further exposure.
 
 **Secondary Pages**
 
 
-![Nav Bar](assets/images/ms1_second_page_design.PNG)
+![Secondary page layout](assets/images/ms1_second_page_design.PNG)
 
-- These pages were built to provide further information on each attraction currently advertised on the site, should the user be interested. These pages can be accessed from both the nav bar and buttons in the main body to allow easy navigation of the site. 
+- These pages were built to provide further information on each type of attraction currently displayed on the homepage, should the user be interested. These pages can be accessed from both the nav bar and buttons in the main body to allow easy navigation of the site. 
 
-- Restaurants, festivals and hotels each have their own page which provides a range of options, brief summary and displays a related image. The image and paragraphs are positioned using Bootstrap which allowed me to ensure they are responsive across all screen sizes.
+- Restaurants, festivals and hotels each have their own page which provides a range of options, brief summary and displays a related image. The image and paragraphs are positioned using Bootstrap column system which allowed me to ensure they are responsive across all screen sizes.
 
 ### Future Features
 
-- I believe the page would be a great opportunity for local businesses in the tourism industry to partake in targeted advertising for special offers they are making. This could be implemented by adding advertising bars to each page which would create a source of revenue.
+- I believe the page would be a great opportunity for local businesses in the tourism industry to partake in targeted advertising for special offers they are making. This could be implemented by adding advertising bars near the top of each secondary page which would create a source of revenue.
 
 ## Technologies used
 
