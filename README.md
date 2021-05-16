@@ -96,3 +96,25 @@ You can follow the steps below to deploy the project to GitHub.
 
 The deployed link can be found [here.](https://gwgjnr.github.io/Fourteen_Tribes/hotels.html)
 
+## Credits
+
+### Content
+
+- The navbar was initially built using the Run Loving mini-project as a template for the code layout, which can be seen in the initial commits. Having then tested this on smaller screen sizes and discussing the sizing issues encountered with a friend, I decided to make use of Bootstraps template for a navbar, which allows it to be collapsed.
+
+- I made use of https://www.w3schools.com/ for the css rules to make the website logo slide in from the left. 
+
+- I used bootstrap to allow me to divide the the body of each page into rows and columns which ensured the display was responsive across all screen sizes. 
+
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/) and the design of the footer was based off the design shown the Love Running Project but eventually changed to include a row and columns to allow the icons to respond better to smaller screen sizes.
+
+- The text throughout the site was written by the developer.
+
+### Media
+
+- All images on the homepage and festival page were taken from https://www.shutterstock.com/home
+
+- Images for the food page were taken from the original restaurant's website galleries.
+
+- Images for the hotels were taken from the original hotel's website galleries.
+
