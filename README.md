@@ -1,6 +1,6 @@
 # 14 TRIBES WEBSITE
 
-The 14 TRIBES Website was designed to promote Galway City as a suitable location for holiday makers. This website is intended to target groups and couples looking to arrange a short break. This is achieved by clearly and intuitively providing lists of restaurants, hotels and festivals that may be of interest to the user. 
+The 14 TRIBES Website was designed to promote Galway City as a suitable location for holiday makers. This website is intended to target groups and couples looking to arrange a short break. This is achieved by providing information on restaurants, hotels and festivals that may be of interest to the user.
 
 [View the live project here.](https://gwgjnr.github.io/Fourteen_Tribes/hotels.html)
 
@@ -10,6 +10,7 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 **Navigation Bar**
 
+
 ![Nav Bar](assets/images/ms1_navbar.PNG)
 
 - The fully responsive nav bar was created using bootstrap. This is identically displayed across all four pages and includes the website logo on the lefthand side with the page menu floating left to allow navigation of the site. 
@@ -18,11 +19,13 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 **Homepage Image**
 
+
 ![Nav Bar](assets/images/ms1_main_body.PNG)
 
 - This image was selected to give the user a view of a famous part of Galway called The Long Walk with the aim of furthering enticing the customer with the scenery.
 
 **Homepage Main Body**
+
 
 ![Nav Bar](assets/images/ms1_homepagecentre.PNG)
 
@@ -36,6 +39,7 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 **Footer**
 
+
 ![Nav Bar](assets/images/ms1_footer.PNG)
 
 - The footer for this website is designed to match the color scheme of the nav bar to intuitatively inform the customer that they have reached the bottom of the page.
@@ -43,6 +47,9 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 - The footer includes links to all major social media as this allows the customer to navigate easily to the relevant social media page which encourages them to share and generate further exposure.
 
 **Secondary Pages**
+
+
+![Nav Bar](assets/images/ms1_second_page_design.PNG)
 
 - These pages were built to provide further information on each attraction currently advertised on the site, should the user be interested. These pages can be accessed from both the nav bar and buttons in the main body to allow easy navigation of the site. 
 
