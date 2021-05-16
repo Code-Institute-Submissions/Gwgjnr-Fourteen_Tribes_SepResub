@@ -2,7 +2,7 @@
 
 The 14 TRIBES Website was designed to promote Galway City as a suitable location for holiday makers. This website is intended to target groups and couples looking to arrange a short break. This is achieved by clearly and intuitively providing lists of restaurants, hotels and festivals that may be of interest to the user. 
 
-    [View the live project here.](https://gwgjnr.github.io/Fourteen_Tribes/hotels.html)
+<a name="https://gwgjnr.github.io/Fourteen_Tribes/hotels.html">View the live project here.</a>
 
 ## Features
 
