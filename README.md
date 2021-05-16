@@ -44,4 +44,24 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 > I believe the page would be a great opportunity for local businesses to partake in targeted advertising for special offers they are making. This could be implemented by adding advertising bars to each page which would create a source of revenue.
 
+## Technologies used
+
+### Languages used
+
+1. HTML
+2. CSS
+
+### Frameworks used
+
+1. Bootstrap 4.1.3
+* Bootstrap was used to ensure the page is responsive across all screen sizes. 
+
+## Testing
+
+> The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+Please see here for HTML Validator.
+
+Please see here for CSS Validator.
+
 
