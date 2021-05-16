@@ -54,7 +54,25 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 ### Frameworks used
 
 1. Bootstrap 4.1.3
-* Bootstrap was used to ensure the page is responsive across all screen sizes. 
+Bootstrap was used to ensure the pages are responsive across all screen sizes. 
+
+2. Google Fonts
+Google Fonts was used to provide the font styling for the logo, headers and paragraphs.
+
+3. Font Awesome
+Font Awesome was used to create anchored social media icons in the footer. 
+
+4. jQuery
+jQuery was needed with Bootstrap to make the nav bar responsive.
+
+5. Git
+Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+6. Github
+Github was used to store the website by using the to commit to Git and Push to GitHub.
+
+7. http://www.imageoptimizer.net/
+This website was used to optimize larger images to ensure loading times were kept to a minimum.
 
 ## Testing
 
