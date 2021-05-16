@@ -47,7 +47,8 @@ h4, h5 {
     height: 37.5rem;
     width: 100%;
     object-fit: none;
-    ;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
 }
 
 #homepage_about {
