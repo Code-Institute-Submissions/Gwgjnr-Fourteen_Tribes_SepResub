@@ -2,7 +2,7 @@
 
 The 14 TRIBES Website was designed to promote Galway City as a suitable location for holiday makers. This website is intended to target groups and couples looking to arrange a short break. This is achieved by providing information on restaurants, hotels and festivals that may be of interest to the user.
 
-[View the live project here.](https://gwgjnr.github.io/Fourteen_Tribes/hotels.html)
+[View the live project here.](https://gwgjnr.github.io/Fourteen_Tribes/index.html)
 
 ## Features
 
@@ -13,9 +13,11 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 ![Nav Bar](assets/images/ms1_navbar.PNG)
 
-- The fully responsive nav bar was created using bootstrap. This is identically displayed across all four pages and includes the website logo on the lefthand side with the page menu floating left to allow navigation of the site. 
+- The responsive nav bar was created using a bootstrap template. This is identically displayed across all four pages and includes the website logo on the lefthand side with the page menu floating left to allow navigation of the site. 
 
-- Having initially created a nav bar without bootstrap, I found that once you reached the smaller screen sizes it was not visually pleasing and decided to use bootstrap as this allows for a collapsable menu which is hidden until clicked on small screens.
+- Having initially created a nav bar without bootstrap, I found that once it reached the smaller screen sizes it was not visually pleasing and decided to use bootstrap as this allows for a collapsable menu which is hidden until clicked on small screens.
+
+- I included the active class on each page when you visit it so it highlights the page you are currently viewing.
 
 **Homepage Image**
 
@@ -99,7 +101,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 Throughout the creation of this site, I found that the most issues arised when scaling the site to smaller screen sizes. I encountered issues like this [example](assets/images/ms1_issue1.PNG) where the imagery would overlap on the headings. After speaking with a peer, I decided to make use of bootstrap's columns system to ensure the imagary and text did not cross over.
 
-Even after making use of bootstrap to eliminate most of these issues, I found that the text still crossed over the image on the secondary pages, please see [example](assets/images/ms1_issue2.PNG) here which only occurred between 970px - 1140px. I rectifed this issue by adding a media queries range which targeted the descendant elements of the article_area class, adding a margin to the left.
+I found that the text crossed over the image on the secondary pages, please see [example](assets/images/ms1_issue2.PNG) here which only occurred between 970px - 1140px. I rectifed this issue by changing the width rule for the article_images from a set rem to a percentage which allowed the image to scale in it's column.
 
 ## Deployment
 
@@ -109,7 +111,7 @@ You can follow the steps below to deploy the project to GitHub.
   2. From the source section drop-down menu, select the Master Branch
   3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The deployed link can be found [here.](https://gwgjnr.github.io/Fourteen_Tribes/hotels.html)
+The deployed link can be found [here.](https://gwgjnr.github.io/Fourteen_Tribes/index.html)
 
 ## Credits
 
