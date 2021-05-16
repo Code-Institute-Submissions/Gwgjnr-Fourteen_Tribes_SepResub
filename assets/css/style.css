@@ -63,6 +63,17 @@ h4, h5 {
     padding: 2rem 0 32rem 0;
 }
 
+.card-img-top {
+    height: 21rem;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 25%;
+}
+
+.card {
+    border: none;
+}
+
 .homepage_text {
     display: inline-block;
     width: 60%;
@@ -90,7 +101,7 @@ footer {
     color: #ffffff;
 }
 
-.circle_images {
+.article_images {
     opacity: 0.9;
     width: 90%;
     height: 90%;
