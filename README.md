@@ -1,6 +1,6 @@
 # 14 TRIBES WEBSITE
 
-The 14 TRIBES Website was designed to promote Galway City as a suitable location for holiday makers. This website is intended to target groups and couples looking to arrange a short break. This is achieved by clearly and intuitively providing lists of restaurants, hotels and festivals that may be of interest to the customer. 
+The 14 TRIBES Website was designed to promote Galway City as a suitable location for holiday makers. This website is intended to target groups and couples looking to arrange a short break. This is achieved by clearly and intuitively providing lists of restaurants, hotels and festivals that may be of interest to the user. 
 
     <a>View live project here.</a>
 
@@ -10,7 +10,7 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 **Navigation Bar**
 
->  The fully responsive nav bar was created using bootstrap. This is identically displayed across all four pages and includes the website logo on the lefthand side with the page menu floating left. 
+>  The fully responsive nav bar was created using bootstrap. This is identically displayed across all four pages and includes the website logo on the lefthand side with the page menu floating left to allow navigation of the site. 
 
 > Having initially created a nav bar without bootstrap, I found that once you reached the smaller screen sizes it was not visually pleasing and decided to use bootstrap as this allows for a collapsable menu which is hidden until clicked on small screens.
 
@@ -78,8 +78,8 @@ The 14 TRIBES Website was designed to promote Galway City as a suitable location
 
 > The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-Please see here for HTML Validator.
+Please see [here](assets/images/htmlcheck.PNG) for HTML Validator.
 
-Please see here for CSS Validator.
+Please see [here](assets/images/csscheck.PNG) for CSS Validator.
 
 
