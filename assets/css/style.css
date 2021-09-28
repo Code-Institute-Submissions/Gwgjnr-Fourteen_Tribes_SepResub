@@ -1,4 +1,8 @@
+/* Command used to import fonts from google API's */
+
 @import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat&family=Roboto&display=swap');
+
+/* General rules to remove padding/margin and set initial styles for all pages */
 
 * {
     margin: 0;
@@ -16,6 +20,8 @@ body {
 a {
     text-decoration: none;
 }
+
+/* Styling rules targeting the header elements across all pages */
 
 h1 {
     font-family: 'Monoton', sans-serif;
@@ -43,6 +49,8 @@ h4, h5 {
     padding: 1rem 0;
 }
 
+/* Styling rules targeting the homepage image and elements */
+
 #homepage-image {
     height: 37.5rem;
     width: 100%;
@@ -62,6 +70,8 @@ h4, h5 {
     margin: 0 auto;
     padding: 2rem 0 32rem 0;
 }
+
+/* Styling rules targeting the Bootstrap cards on the homepage */
 
 .card-img-top {
     object-fit: cover;
@@ -86,6 +96,8 @@ hr {
     margin: .33rem 0 .7rem;
 }
 
+/* Styling rules targeting the footer and icons ensuring they are evenly spaced */
+
 footer {
     height: 4.5rem;
     background-color: #343a40;
@@ -99,6 +111,8 @@ footer {
 .social-media a {
     color: #ffffff;
 }
+
+/* Styling rules targeting the article images and paragraph on the secondary pages */
 
 .article_images {
     opacity: 0.9;
@@ -123,6 +137,9 @@ footer {
     background-color: white;
 }
 
+/* Animation added to page logo on the left side of navbar when page is loaded, created using W3schools example -
+ https://www.w3schools.com/css/css3_animations.asp */
+
 .animate-left {
     position: relative;
     animation: animateleft 1s
@@ -137,6 +154,8 @@ footer {
         opacity: 1
     }
 }
+
+/* Media queries used to ensure responsiveness across different screen widths */
 
 @media screen and (min-width: 860px) {
     .main-body-text {
