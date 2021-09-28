@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat&family=Roboto&display=swap');
 
-/* General rules to remove padding/margin and set initial styles for all pages to allow easier customisation */
+/* General rules to set initial styles for all pages */
 
 * {
     margin: 0;
@@ -21,7 +21,7 @@ a {
     text-decoration: none;
 }
 
-/* Styling rules targeting the header elements across all pages, applyigng fonts and sizes */
+/* Styling rules targeting the header elements applying fonts and sizes */
 
 h1 {
     font-family: 'Monoton', sans-serif;
@@ -49,7 +49,7 @@ h4, h5 {
     padding: 1rem 0;
 }
 
-/* Styling rules targeting the homepage image and text below, ensures image fills screen and that both are centred */
+/* Styling rules targeting the homepage image and text */
 
 #homepage-image {
     height: 37.5rem;
@@ -71,8 +71,7 @@ h4, h5 {
     padding: 2rem 0 32rem 0;
 }
 
-/* Styling rules targeting the Bootstrap cards on the homepage, ensures image fills the top part of each card 
- and styles text area */
+/* Styling rules targeting the Bootstrap cards on the homepage */
 
 .card-img-top {
     object-fit: cover;
@@ -97,7 +96,7 @@ hr {
     margin: .33rem 0 .7rem;
 }
 
-/* Styling rules targeting the footer and icons, ensures they are evenly spaced and applies colour */
+/* Styling rules targeting the footer and icons */
 
 footer {
     height: 4.5rem;
@@ -138,7 +137,7 @@ footer {
     background-color: white;
 }
 
-/* Animation added to page logo on the left side of navbar when page is loaded, created using W3schools example -
+/* Animation added to logo on the left side of navbar when page is loaded, created using W3schools example -
  https://www.w3schools.com/css/css3_animations.asp */
 
 .animate-left {
